@@ -1,0 +1,7 @@
+mqtt:
+  broker-url: tcp://127.0.0.1:1883
+  client-id: demo-client
+  username: damoncai
+  password: damoncai
+server:
+  port: 8888
